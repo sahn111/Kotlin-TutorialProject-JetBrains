@@ -1,7 +1,10 @@
 ## Kotlin-TutorialProject-JetBrains
 
 <b> This is a project that taken from https://ktor.io/docs/creating-http-apis.html </b>
-
+```
+  Note : I did not added the Orders part, 
+  because I just wanted to see syntax of Kotlin and project structure when I work with it.  
+```
 <br>
 
 <b> You can use this repository if you want to see all tutorial codes in one place.</b>
